@@ -54,7 +54,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![mathsai8](https://github.com/user-attachments/assets/68f1c8b9-f66d-4d6e-8a86-a3c6cbb46950)
+![mathsai8](https://github.com/user-attachments/assets/43387f98-986b-4ff1-aed2-0748dfc67e12)
+
 
 ```
 
